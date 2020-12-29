@@ -246,13 +246,24 @@ header a {
 		display: none;
 	}
 
-	.menu-open {
-	    display: block
-	}
 
 	.offer h1 {
 		line-height: 1em;
     	margin-top: 10px;
+    	font-size: 45px;
+    	width: 329px;
+    	margin-bottom: 40px;
+	}
+
+	.offer p {
+		font-size: 19px;
+		width: 211px;
+	}
+
+	.btn {
+		font-size: 15px;
+		width: 187px;
+		padding: 15px 30px;
 	}
 
 	.description {
