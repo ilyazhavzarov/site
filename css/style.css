@@ -54,10 +54,12 @@ ul, li {
 }
 
 .header {
+	height: 100vh;
 	background: url('../img/header-bg.jpg') no-repeat center top / cover;
 	padding-top: 57px;
 	color: #fff;
 	padding-bottom: 322px;
+	text-align: center;
 }
 
 header a {
@@ -95,21 +97,24 @@ header a {
 }
 
 .nav {
+	width: 990px;
 	display: flex;
 	align-items: center;
 }
 
 .offer {
 	text-transform: uppercase;
-	margin-top: 216px;
+	margin-top: 155px;
 }
 
 .offer p {
+	width: 333px;
 	font-size: 30px;
 	letter-spacing: 0.1em;
 }
 
 .offer h1 {
+	width: 731px;
 	font-size: 100px;
 	margin-bottom: 19px;
 	margin-top: -9px;
